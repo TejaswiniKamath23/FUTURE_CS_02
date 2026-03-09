@@ -1,8 +1,14 @@
 # FUTURE_CS_02
-Tools: Phishing email samples (public datasets or provided samples) · Email header analyzer · Browser tools ·
+Tools: Phishing email samples (public datasets or provided samples) 
+
+· Email header analyzer · Browser tools ·
 Google Docs / MS Word / PDF
-🔹 Skills Gained: Phishing detection, email threat analysis, security awareness building, risk communication,
+
+Phishing detection, email threat analysis, security awareness building, risk communication,
 client-ready documentation
+
+
+
 🔹 Key Features:
 ✔ Identify phishing indicators (spoofed sender, fake domains, malicious links)
 ✔ Classify emails as Safe / Suspicious / Phishing
